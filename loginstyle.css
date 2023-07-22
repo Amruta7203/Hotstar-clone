@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: #0c111b; */
+    background: url('https://assets.beartai.com/uploads/2023/05/disney-plus-hotstar.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.loginbox {
+    background-color: #fff;
+    height: 420px;
+    width: 350px;
+    position: absolute;
+    background: url('https://i.ytimg.com/vi/7ICFQbZOQNo/maxresdefault.jpg');
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    color: #fff;
+    top: 50%;
+    left: 30%;
+    box-sizing: border-box;
+    transform: translate(50%, -50%);
+    padding: 30px 60px;
+}
+
+form h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+form p {
+    margin: 0px;
+    padding: 0px;
+    font-weight: bolder;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.loginbox input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.loginbox input[type="text"], input[type="password"]
+{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #000;
+    font-size: 16px;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-family: monospace;
+}
+
+.loginbox input[type="submit"]
+{
+    border: 2px solid;
+    cursor: pointer;
+    background: #87ceeb;
+    border-radius: 15px;
+    height: 40px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.loginbox input[type="submit"]:hover {
+    cursor: pointer;
+    height: 44px;
+    color: #070764;
+    font-family: sans-serif;
+}
+
+.loginbox a{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #c2e1e3;
+  }
