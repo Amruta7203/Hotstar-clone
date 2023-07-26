@@ -1,6 +1,12 @@
 ## Hotstar-clone
 Welcome to the Hotstar Clone repository! This project is a faithful replication of the popular streaming platform, Disney+Hotstar, created using HTML, CSS, and JavaScript. With this clone, users can explore a wide range of features, including a dynamic navigation bar, video cards, and card containers, providing a seamless streaming experience.
 
+## Screenshots
+![Landing Page](https://github.com/Amruta7203/Hotstar-clone/blob/main/Screenshot%201.png)
+![Cards]((https://github.com/Amruta7203/Hotstar-clone/blob/main/Screenshot%202.png))
+![Login Page]((https://github.com/Amruta7203/Hotstar-clone/blob/main/Screenshot%203.png))
+![Landing Page]((https://github.com/Amruta7203/Hotstar-clone/blob/main/Screenshot%204.png))
+
 ## Key Features
 
 1. **Navigation Bar:** The website boasts an intuitive and responsive navigation bar that enables users to explore different categories and easily navigate through the site.
