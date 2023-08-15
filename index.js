@@ -5,7 +5,7 @@ let movies = [
         image: "images/slider 1.PNG"
     },
     {
-        name: "Rudra: The Edge of darkness",
+        name: "Rudra: The Edge of Darkness",
         des: "Filled with suspense, unexpected twists, and a captivating performance by the lead actor, Rudra: The Edge of Darkness is a gripping cinematic experience that keeps audiences on the edge of their seats until the final revelation.",
         image: "images/rudra-img.jpeg"
     },
